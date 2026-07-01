@@ -4,6 +4,7 @@ http://localhost:8888/lab/tree/Desktop/NLP-Project
 
 After in this we'll try building a realtime news and data analyzer which we'll integrate with a stock broker and predict real time stock prices on basis of news sentiment , concalls , reports etc
 
-This is my first presentation for basic work in NLP
-[Uploading FinancialNewsSentiment_IITR.pptx…]()
+This is my first presentation for basic work in NLP : 
+[FinancialNewsSentiment_IITR.pptx](https://github.com/user-attachments/files/29561552/FinancialNewsSentiment_IITR.pptx)
+
 
